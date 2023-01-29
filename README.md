@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. More importantly, we are going to mainly configure roles as an admin. <br />
 
 
 
@@ -25,21 +25,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src=https://i.imgur.com/f4MVnF0.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To continue where we left off, we are going to login back into osTicket as an admin. If you don't remember the address to login, here is the link to do so http://localhost/osTicket/scp/login.php. You must use whatever credentials you use to setup osTicket as admin. </p>
+To continue where we left off, we are going to log back into osTicket as an admin. If you don't remember the address to login, here is the link to do so http://localhost/osTicket/scp/login.php. You must use whatever credentials you use to setup osTicket as admin.Once you are logged in click admin panel tab to get started with configuring. </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/c5r61Q9.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You should already be in the admin panel, once you are in the admin panel, what we want to do next is click on agents-> then roles-> now click on add a new role It can be named anything, but i will name mine Supreme Admin. Next we will add permissions as well.As a Supreme admin, one is in total control right. Now Click permissions, then check every box in tasks,tickets, and knowledgebase. Click save changes.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= https://i.imgur.com/somaNko.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will configure departments in admin panel. click agents -> click departments -> add new department-> the name will be System Administrators. Then click create Department.
 </p>
 <br />
