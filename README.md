@@ -61,4 +61,12 @@ next we want to make sure anyone can create a ticket, admin panel -> settings ->
 <br /v
 
 <p>
-<img src=   
+<img src= https://i.imgur.com/nixDmoH.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we will be adding agents. In the admin panel -> click agents -> then add new agents-> add a name for your agent and set password. Uncheck the two boxes that says (Send the agent a password reset email) and (Require password change at next login). Create a password and hit set. Furthermore, we want to give this agent access. click access at the top then add your agent to system administrators and the role could be supreme admin. The choice is yours to decide which department and role he/she will be engaging into. You can repeat this process to add more agents. 
+</p>
+<br /v
+
+<p>
+<img src  
