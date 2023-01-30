@@ -48,4 +48,17 @@ Next, we will configure departments in admin panel. click agents -> click depart
 <img src= https://i.imgur.com/SFAsu4x.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we will be creating a new team, click agents-> click teams-> name will be level II Support-> tap members and add yourself in the team.
+Next we will be creating a new team, click agents-> click teams-> name will be level II Support-> tap members and add yourself to the team if you would like to.
+</p>
+<br />
+
+<p>
+<img src= https://i.imgur.com/hzNdm0y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+next we want to make sure anyone can create a ticket, admin panel -> settings -> then tap user settings. We want to make sure the box is unchecked for  require registration and login to create ticket.
+</p>
+<br /v
+
+<p>
+<img src=   
