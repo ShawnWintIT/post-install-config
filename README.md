@@ -43,3 +43,9 @@ You should already be in the admin panel, once you are in the admin panel, what 
 Next, we will configure departments in admin panel. click agents -> click departments -> add new department-> the name will be System Administrators. Then click create Department.
 </p>
 <br />
+
+<p> 
+<img src= https://i.imgur.com/SFAsu4x.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we will be creating a new team, click agents-> click teams-> name will be level II Support-> tap members and add yourself in the team.
