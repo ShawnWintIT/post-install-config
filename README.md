@@ -86,4 +86,7 @@ Next we will be configuring SLA's. SLA stands for Service Level Agreements, whic
 <br /v
 
 <p>
-<img src=       
+<img src= https://i.imgur.com/cNlPYUn.png height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Next we will be configuring Help topics. Help topics is a great way for end users to have a great experience with help with problems they have. First we are go into admin panel -> mangage -> then click help topics-> click add new. We are going to create 4 which are business critical outage, personal computer issues, password reset, equipment request.
