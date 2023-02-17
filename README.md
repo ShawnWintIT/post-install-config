@@ -25,14 +25,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src=https://i.imgur.com/f4MVnF0.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To continue where we left off, we are going to log back into osTicket as an admin. If you don't remember the address to login, here is the link to do so http://localhost/osTicket/scp/login.php. You must use whatever credentials you use to setup osTicket as admin.Once you are logged in click admin panel tab to get started with configuring. </p>
+To continue where we left off, we are going to log back into osTicket as an admin. If you don't remember the address to login, here is the link to do so http://localhost/osTicket/scp/login.php. You must use the credentials you use to setup osTicket as admin.Once you are logged in click admin panel tab to get started with configuring. </p>
 <br />
 
 <p>
 <img src=https://i.imgur.com/c5r61Q9.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You should already be in the admin panel, once you are in the admin panel, what we want to do next is click on agents-> then roles-> now click on add a new role It can be named anything, but i will name mine Supreme Admin. Next we will add permissions as well.As a Supreme admin, one is in total control right. Now Click permissions, then check every box in tasks,tickets, and knowledgebase. Click save changes.
+Once you are in the admin panel, what we want to do next is click on agents-> roles-> now click on add a new role It can be named anything, but i will name mine Supreme Admin. Next we will add permissions as well.As a Supreme admin, we will be in total control. Now Click permissions, then check every box in tasks,tickets, and knowledgebase. Click save changes.
 </p>
 <br />
 
